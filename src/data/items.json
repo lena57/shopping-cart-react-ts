@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Avacado",
+    "price": 0.99,
+    "imgUrl": "/imgs/avacado.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Book",
+    "price": 13.05,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 9999,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tulip",
+    "price": 8.49,
+    "imgUrl": "/imgs/coldplay.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mango",
+    "price": 1.39,
+    "imgUrl": "/imgs/mango.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Violin",
+    "price": 4000,
+    "imgUrl": "/imgs/violin.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sneakers",
+    "price": 140.79,
+    "imgUrl": "/imgs/sneakers.jpg"
+  }
+]
